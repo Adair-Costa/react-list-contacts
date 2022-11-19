@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(27, 42, 74);
+}
+
+.title {
+    padding: 20px;
+    color: #fff;
+}
+
+.form {
+    background-color: rgb(44, 61, 98);
+    color: #fff;
+}
